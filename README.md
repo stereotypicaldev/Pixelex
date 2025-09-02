@@ -24,17 +24,17 @@ I am not responsible for, nor have I written or verified, the code of any third-
 
 ### Features
 
-#### Source Parameters
+##### Source Parameters
 
 - **Batch Processing**: Process multiple files in a directory or recursively through subdirectories.
 
-#### Operation Flags 
+##### Operation Flags 
 
 - **Metadata Scrubbing** — Expunge metadata; obfuscate provenance.
 
 - **Obfuscation** — Sanitizes forensic traces, via concealment techniques to prevent forensic attribution of images.
 
-#### Export Settings
+##### Export Settings
 
 - **UUID-based Renaming** — Generates a randomized cryptographically generated UUID pattern, and replaces original filename.
 
