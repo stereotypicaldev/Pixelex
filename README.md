@@ -13,7 +13,6 @@ This tool is tailored to my personal workflow and should not be considered a com
 I am not responsible for, nor have I written or verified, the code of any third-party tools used as part of this project; my responsibility is limited to assembling them into this workflow. 
 
 ### Warnings
-<br>
 
 - Repeatedly processing an image may degrade its quality—use with caution.
 
