@@ -31,6 +31,7 @@ I am not responsible for, nor have I written or verified, the code of any third-
 #### Operation Flags 
 
 - **Metadata Scrubbing** — Expunge metadata; obfuscate provenance.
+
 - **Obfuscation** — Sanitizes forensic traces, via concealment techniques to prevent forensic attribution of images.
 
 #### Export Settings
