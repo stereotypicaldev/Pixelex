@@ -3,6 +3,10 @@
 <br>
 <p align="center">A command-line utility, offering a diverse set of tools and techniques for preventing forensic attribution of images.</p>
 
+---
+
+## Description
+
 **Pixelex** was created as an automated tool to process my images before sharing them online—whether on cloud services, social media, or with friends; I built it to help safeguard my privacy and reduce the chances that images leaving my local network (in any way) can't be forensically traced or identified to me.
 
 This tool is tailored to my personal workflow and should not be considered a complete privacy solution. Any, and all users are encouraged to combine it with other privacy practices. Please do not rely on this tool, nor on me to keep it updated or troubleshoot.
