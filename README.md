@@ -44,12 +44,9 @@ I am not responsible for, nor have I written or verified, the code of any third-
 Basic usage requires specifying a file or directory:
 
 ```
-python3 Pixelex.py -f <file_path> -s -o
+python3 Pixelex.py -f <file_path>
 ```
 
 ```
-python3 Pixelex.py -d <directory_path> -sd -s -o -gu
+python3 Pixelex.py -d <directory_path>
 ```
-
-## Notes
-
