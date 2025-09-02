@@ -12,7 +12,7 @@ This tool is tailored to my personal workflow and should not be considered a com
 
 I am not responsible for, nor have I written or verified, the code of any third-party tools used as part of this project; my responsibility is limited to assembling them into this workflow. 
 
-## Warnings
+### Warnings
 
 - Repeatedly processing an image may degrade its quality—use with caution.
 
@@ -22,24 +22,24 @@ I am not responsible for, nor have I written or verified, the code of any third-
 
 - Developed for privacy research and personal use.
 
-## Features
+### Features
 
-### Source Parameters
+#### Source Parameters
 
 - **Batch Processing**: Process multiple files in a directory or recursively through subdirectories.
 
-### Operation Flags 
+#### Operation Flags 
 
 - **Metadata Scrubbing** — Expunge metadata; obfuscate provenance.
 - **Obfuscation** — Sanitizes forensic traces, via concealment techniques to prevent forensic attribution of images.
 
-### Export Settings
+#### Export Settings
 
 - **UUID-based Renaming** — Generates a randomized cryptographically generated UUID pattern, and replaces original filename.
 
 ---
 
-## Basic Usage
+### Basic Usage
 
 Basic usage requires specifying a file or directory:
 
