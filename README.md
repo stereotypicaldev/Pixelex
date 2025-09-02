@@ -36,7 +36,7 @@ I am not responsible for, nor have I written or verified, the code of any third-
 
 #### Export Settings
 
-- **Generate Universally Unique Identifier (UUIDs)** — Generates a randomized cryptographically generated UUID pattern, and replaces original filename.
+- **Universally Unique Identifier (UUIDs)** — Generates a randomized cryptographically generated UUID pattern, and replaces original filename.
 
 ---
 
